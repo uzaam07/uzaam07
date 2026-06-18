@@ -1,6 +1,23 @@
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Uzaam%20Shaad%20K&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Uzaam%20Shaad%20K&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/> 
 </p>
+Hi there! 👋
+
+I'm **Uzaam Shaad K** — an MCA student and BCA graduate. I work with Python and Java to build clean, reliable REST APIs and data-analysis solutions. 
+
+Tagline: Building practical, data-driven back-end services and contributing to open source. 🚀
+
+## About Me
+
+- 🎓 MCA Student | BCA Graduate
+- 💼 Focus: Python, Java, Machine Learning, REST APIs, Data Analysis.
+- 🌱 Open Source Enthusiast — actively learning and contributing to projects.
+- 📫 Open to: "SDE roles", "Full-Stack", "Data Analysis", "Backend Developer".
+
+Currently learning on:
+- FastAPI and modern Python tooling.
+- Containerization and deployment with Docker.
+- Improving test coverage and CI/CD workflows.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/uzaam_shaad_03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Uzaamshaad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:uzaamshaad6@gmail.com) 
@@ -14,16 +31,18 @@
 ![](https://streak-stats.demolab.com/?user=uzaam07&theme=codeSTACKr&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=uzaam07&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 </div>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=uzaam07&theme=radical&radius=10" alt="uzaam07's Activity Graph" />
-</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
 
-</div>
+## 📊 Activity Graph
+
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=uzaam07&theme=radical&radius=10" alt="uzaam07's Activity Graph" />
+</p>
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,29&height=120&section=footer&animation=twinkling"/>
