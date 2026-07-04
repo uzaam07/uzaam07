@@ -224,7 +224,7 @@ The Telephone Directory Management System is a database management project desig
 - SQL
 - Database Design
 
-## Project Overflow:
+## Project Workflow:
 
 ```text
 👤 User
